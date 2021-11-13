@@ -10,7 +10,7 @@ Well, then you are in the right place as it can also be done automatically! If y
 
 These explain some stuff you'll need to use for the project to work properly!
 
-- [Where can I find my User/Server/Message ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+- [Where can I find my discord User/Server/Message ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 - [What is a command line?](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
 ### ⚡ Configuration
@@ -44,6 +44,10 @@ To use the project correctly you will need some tools.
 
 After installing python you'll need to install [Discord.py](https://github.com/Rapptz/discord.py). You can do so by opening your preffered command line and running the ```pip install discord``` command.
 
-Without forgetting of course the code editor.
+And of course, you'll also need a code editor. Some are listed below:
+- [VSCode](https://code.visualstudio.com/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Atom](https://atom.io/)
 
 
