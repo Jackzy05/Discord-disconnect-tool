@@ -10,7 +10,6 @@ Well, then you are in the right place as it can also be done automatically! If y
 Open the main file located in ```main.py``` and fill in all the needed ID's and your bot's token. Every place where you should fill in info is marked with #
 ```py
 # DISCORD MEMBER DISCONNECT TOOL
-# **Instructions are available in the README.md file**
 
 import discord
 import time
