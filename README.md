@@ -4,7 +4,7 @@ Has it ever occurred to you that you had to gradually disconnect someone from a 
 
 Well, then you are in the right place as it can also be done automatically! If you want to have your own discord bot that will **disconnect people from a discord voice channel for you indefinitely**, follow the instructions below!
 
-*If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
+*If you don't have any development knowledge, it is recommended to join the [Discord support server](https://discord.gg/wU3P5PpEbd) to get help.*
 
 ### 📎 Useful links
 
