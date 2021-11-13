@@ -6,7 +6,10 @@ Well, then you are in the right place as it can also be done automatically! If y
 
 *If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
 
-### Useful links
+### 📎 Useful links
+
+These explain some stuff you'll need to use for the project to work properly!
+
 - [Where can I find my User/Server/Message ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 - [What is a command line?](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
 
