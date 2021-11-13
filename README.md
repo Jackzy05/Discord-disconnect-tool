@@ -4,5 +4,29 @@ Has it ever occurred to you that you had to gradually disconnect someone from a 
 
 Well, then you are in the right place as it can also be done automatically! If you want to have your own discord bot that will **disconnect people from a discord voice channel for you indefinitely**, follow the instructions below!
 
+*If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
+
 ### ⚡ Configuration
 Open the main file located in ```main.py```.
+```py
+# DISCORD MEMBER DISCONNECT TOOL
+# **Instructions are available in the README.md file**
+
+import discord
+import time
+
+intents = discord.Intents.default()
+intents.reactions = True
+intents.members = True
+client = discord.Client(intents = intents)
+
+@client.event
+async def on_ready():
+    while True:
+        server = client.get_guild() # Put server's ID between the brackets
+        member = server.get_member() # Put member's ID between the brackets
+        await member.edit(voice_channel = None)
+        time.sleep(1.1)
+        
+client.run("") # Put your bot token between the quotation marks
+```
