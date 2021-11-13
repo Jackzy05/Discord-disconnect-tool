@@ -7,7 +7,7 @@ Well, then you are in the right place as it can also be done automatically! If y
 *If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
 
 ### ⚡ Configuration
-Open the main file located in ```main.py```.
+Open the main file located in ```main.py``` and fill in all the needed ID's and your bot's token (everything is marked with #).
 ```py
 # DISCORD MEMBER DISCONNECT TOOL
 # **Instructions are available in the README.md file**
