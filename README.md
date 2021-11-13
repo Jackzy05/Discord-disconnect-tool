@@ -30,3 +30,14 @@ async def on_ready():
         
 client.run("") # Put your bot token between the quotation marks
 ```
+
+### 📑 Installation
+To use the project correctly you will need some tools.
+
+[Python](https://www.python.org/downloads/) to run the code.
+
+[Discord.py](https://github.com/Rapptz/discord.py) to run the code as well.
+
+Without forgetting of course the code editor.
+
+
