@@ -6,6 +6,10 @@ Well, then you are in the right place as it can also be done automatically! If y
 
 *If you don't have any development knowledge, it is recommended to join the Discord support server to get help.*
 
+### Useful links
+- [Where can I find my User/Server/Message ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
+- [What is a command line?](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+
 ### ⚡ Configuration
 Open the main file located in ```main.py``` and fill in all the needed ID's and your bot's token. Every place where you should fill in info is marked with #
 ```py
