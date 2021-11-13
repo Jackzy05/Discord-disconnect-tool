@@ -12,6 +12,7 @@ These explain some stuff you'll need to use for the project to work properly!
 
 - [Where can I find my discord User/Server/Message ID?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 - [What is a command line?](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+- [How to run Python code](https://www.knowledgehut.com/blog/programming/run-python-scripts#:~:text=The%20most%20basic%20and%20the,the%20keyboard%20and%20that's%20it.)
 
 ### ⚡ Configuration
 Open the main file located in ```main.py``` and fill in all the needed ID's and your bot's token. Every place where you should fill in info is marked with #
