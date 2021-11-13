@@ -36,7 +36,7 @@ To use the project correctly you will need some tools.
 
 [Python](https://www.python.org/downloads/) to run the code.
 
-[Discord.py](https://github.com/Rapptz/discord.py) to run the code as well.
+After installing python you'll need to install [Discord.py](https://github.com/Rapptz/discord.py). You can do so by opening your preffered command line and running the ```pip install discord``` command.
 
 Without forgetting of course the code editor.
 
