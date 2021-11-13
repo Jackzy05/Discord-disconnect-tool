@@ -1,1 +1,1 @@
-# Discord-disconnect-tool
+# Discord member disconnect tool
